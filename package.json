@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/inrl-official/inrl-bot-md.git"
+    "url": "git+https://github.com/BLACK-HAT-TEAM/BLACK-CYBER-V1.git"
   },
   "dependencies": {
     "@adiwajshing/keyed-db": "^0.2.4",
