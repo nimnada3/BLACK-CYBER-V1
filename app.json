@@ -1,6 +1,7 @@
 {
   "name": "BLACK-CYBER-MD",
   "description": "The Official Best Whats App Bot",
+  "logo": "https://telegra.ph/file/a267bb4341e4a11e42eb9.jpg",
   "keywords": [],
   "stack": "container",
   "env": {
