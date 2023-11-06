@@ -55,6 +55,11 @@
       "required": false,
       "value": "false"
     },
+    "LANGUAGE": {
+      "description": "Bot language (ENGLISH/SINHALA)",
+      "required": true,
+      "value": "EN"
+    },
     "WARN": {
       "description": "warn count",
       "required": false,
