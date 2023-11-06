@@ -24,7 +24,7 @@
 
 ## 🌷ᴄʟɪᴄᴋ ᴛᴏ ꜰᴏʀᴋ🌷
 
-1.  ***[FORK](https://github.com/MR-SACHIYA1/BLACK-HUNTER/fork)***
+1.  ***[FORK](https://github.com/BLACK-HAT-TEAM/BLACK-CYBER/fork)***
  
    
    
