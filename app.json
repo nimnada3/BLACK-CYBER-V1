@@ -28,7 +28,7 @@
     "BOT_INFO": {
       "description": "baasic bot configration",
       "required": true,
-      "value": "INRL-BOT-MD;INRL;https://i.imgur.com/DyLAuEh.jpg"
+      "value": "BLACK-CYBER;MR-SACHIYA;https://i.imgur.com/DyLAuEh.jpg"
     },
     "PREFIX": {
       "description": "bot preifx  ., [.,!], false",
