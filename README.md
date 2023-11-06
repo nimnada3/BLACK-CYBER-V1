@@ -8,10 +8,6 @@
 <p align="center">
   <a href="" target="_blank">
     <img alt="Forks" src="https://img.shields.io/github/forks/BLACK-HAT-TEAM/BLACK-CYBER-V1" />
-<p align="center">
-  <a aria-label="BLAC-HUNTER is free to use" href="https://github.com/MR-SACHIYA1/BLACK-HUNTER/blob/main/LICENCE" target="_blank">
-    <img alt="License: GPL-3" src="https://badges.frapsoft.com/os/gpl/gpl.png?v=103)](https://opensource.org/licenses/GPL-3.0/" target="_blank" />
-  </a>
 </p>
 
  <p align="center">
