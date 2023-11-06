@@ -10,7 +10,7 @@ let lang = getLang()
 inrl({
     pattern: 'del',
     desc: lang.WHATSAPP.DLT_DESC,
-    react: "⚒️",
+    react: "🗳️",
     type: 'whatsapp',
     fromMe :true,
     onlyGroup :true
