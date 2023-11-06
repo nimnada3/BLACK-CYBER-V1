@@ -1,29 +1,65 @@
-## BLACK CYBER Multi Device Whats App BOT
+ <h1 align="center">BLACK-CYBER MD WHAT'S APP BOT</h1>
+ 
+ <p align="center">  
+  <a href="https://github.com/MR-SACHIYA1">
+    <img alt="secktor docs" height="300" src="https://telegra.ph/file/a267bb4341e4a11e42eb9.jpg">    
+   </a>
+</p>
+<p align="center">
+  <a href="" target="_blank">
+    <img alt="Forks" src="https://img.shields.io/github/forks/BLACK-HAT-TEAM/BLACK-CYBER" />
+<p align="center">
+  <a aria-label="BLAC-HUNTER is free to use" href="https://github.com/MR-SACHIYA1/BLACK-HUNTER/blob/main/LICENCE" target="_blank">
+    <img alt="License: GPL-3" src="https://badges.frapsoft.com/os/gpl/gpl.png?v=103)](https://opensource.org/licenses/GPL-3.0/" target="_blank" />
+  </a>
+</p>
 
-***
+ <p align="center">
+  <a href="#"><img src="http://readme-typing-svg.herokuapp.com?color=d1fa02&center=true&vCenter=true&multiline=false&lines=BLACK+CYBER+MD+BOT;OWNER=MR-SACHIYA;SUPPORTER=MR-KALINDU;CONTACT=+94760007746;GIVE+STAR+AND+FORK+THIS+MY+REPO ;FOLLOW+MY+GitHub" alt="UwU">
+ </p>
 
-### SETUP
+  <p align="center"> Introducing Black Hunter is designed to bring a whole new level of excitement to your boring WhatsApp use. </p>
+ 
+  
 
-1. Fork The Repo
-    <br>
-<a href="https://github.com/inrl-official/inrl-bot-md/fork"><img title="INRL-MD" src="https://img.shields.io/badge/FORK INRL-MD-h?color=black&style=for-the-badge&logo=stackshare"></a>
+## 🌷ᴄʟɪᴄᴋ ᴛᴏ ꜰᴏʀᴋ🌷
 
-2. Scan Qr
-    <br>
-<a href="https://inrl-web.onrender.com/viwe/friendpage"><img title="SCAN QR" src="https://img.shields.io/badge/SCAN QR CODE-h?color=black&style=for-the-badge&logo=msi"></a>
+1.  ***[FORK](https://github.com/MR-SACHIYA1/BLACK-HUNTER/fork)***
+ 
+   
+   
+   ## 🌷ᴅᴇᴩʟᴏʏᴍᴇɴᴛ ᴍᴇᴛʜᴏᴅꜱ🌷
+---
 
+## 🌷ꜱᴇꜱꜱɪᴏɴ ɪᴅ🌷
 
-
-### INRL-MD Deploy Methods
-
--------
-
-#### Deploy To Heroku 
-
-<a href="https://inrl-web.onrender.com/deploy/heroku"><img title="INRL-MD Deploy Heroku" src="https://img.shields.io/badge/DEPLOY HEROKU-h?color=black&style=for-the-badge&logo=heroku"></a>
+2. ***Get [SESSION-ID](https://rowdy-baby-qr-94d785f490a0.herokuapp.com/) by scanning QR code. `Whatapp>Three dots>Linked Devices`***
 
 
- ### Support
+
+## 🌷ʜᴇʀᴏᴋᴜ ᴅᴇᴩʟᴏʏᴍᴇɴᴛ ᴍᴇᴛʜᴏᴅ🌷
+
+3.  ***Deploy on [Heroku](https://heroku.com/deploy?template=https://github.com/MR-SACHIYA1/BLACK-HUNTER)***
+
+
+
+## 🌷ꜰʀᴇᴇ ᴍᴏɴɢᴏᴅʙ ᴋᴇʏ🌷
+```
+mongodb://uv81avnakutzbliczgcu:YYNgzWfkLVxONbVjIVr@bmmkbijvkzeo6y0truts-mongodb.services.clever-cloud.com:2004/bmmkbijvkzeo6y0truts
+```
+
+### Thanks To 🔖
+
+- [MR-KALINDU](https://github.com/MR-KALINDU)   SUPPORTER
+
+
+
+
+<img src="https://chart.apis.google.com/chart?cht=qr&choe=UTF-8&chs=250x250&chld=L&chl=https%3A%2F%2Fgithub.com%2FMR-SACHIYA1%2FBLACK-HUNTER" alt="QR Code Generator"><a href="https://dnschecker.org" rel="nofollow" border="0">QR Code Generator</a>
+
+
+
+### Support
 
 SUPPORT GROUP
 
