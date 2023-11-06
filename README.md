@@ -2,7 +2,7 @@
  
  <p align="center">  
   <a href="https://github.com/MR-SACHIYA1">
-    <img alt="secktor docs" height="300" src="https://telegra.ph/file/a267bb4341e4a11e42eb9.jpg">    
+    <img alt="secktor docs" height="300" src="">    
    </a>
 </p>
 <p align="center">
@@ -51,13 +51,6 @@ mongodb://uv81avnakutzbliczgcu:YYNgzWfkLVxONbVjIVr@bmmkbijvkzeo6y0truts-mongodb.
 ### Thanks To 🔖
 
 - [MR-KALINDU](https://github.com/MR-KALINDU)   SUPPORTER
-
-
-
-
-<img src="https://chart.apis.google.com/chart?cht=qr&choe=UTF-8&chs=250x250&chld=L&chl=https%3A%2F%2Fgithub.com%2FMR-SACHIYA1%2FBLACK-HUNTER" alt="QR Code Generator"><a href="https://dnschecker.org" rel="nofollow" border="0">QR Code Generator</a>
-
-
 
 ### Support
 
