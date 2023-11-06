@@ -1,5 +1,5 @@
 const {
-    blackcyber,
+    inrl,
     isAdmin,
     isBotAdmin,
     errorMessage,
