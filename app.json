@@ -43,7 +43,7 @@
     "STICKER_DATA": {
       "description": "sticker data",
       "required": true,
-      "value": "inrl;inrl"
+      "value": "Black;Cyber"
     },
     "AUTO_STATUS_VIEW": {
       "description": "automatic read status",
@@ -56,7 +56,7 @@
       "value": "false"
     },
     "LANGUAGE": {
-      "description": "Bot language (ENGLISH/SINHALA)",
+      "description": "Bot language [ENGLISH/SINHALA]",
       "required": true,
       "value": "EN"
     },
