@@ -57,5 +57,5 @@ SUPPORT GROUP
 ## ⚖️  *CYBER - X DEVELOPER TEAM* *2K23*  ⚖️
 
 | <a href="https://github.com/darkalphaxteam"><img src="https://telegra.ph/file/c670792adfe0d44dc5a99.jpg" width=90 height=90></a> | <a href="https://github.com/MR-KALINDU"><img src="https://telegra.ph/file/52bf0943ed604560afc00.jpg" width=90 height=90></a> | <a href="https://github.com/nimnada3"><img src="https://telegra.ph/file/70b02eba6a1840dd50f95.jpg" width=90 height=90></a> | <a href="https://github.com/nandundilhara"><img src="https://telegra.ph/file/213c1d599c5c3a61a7bed.jpg" width=90 height=90></a> | <a href="https://github.com/Tharushaa2004"><img src="https://telegra.ph/file/976651bc865695c128228.jpg" width=90 height=90></a> |
-|---|---|---|---|---|---|
+|---|---|---|---|---|
 | **[DARK ALPHA](https://github.com/darkalphaxteam/)**</br>Founder & Developer</br> | **[MR-KALINDU](https://github.com/MR-KALINDU)**</br>CO- Owner & CO-Coder</br> | **[Nimnada](https://github.com/nimnada3)**</br> Beta Tester | **[Nadun Dilhara](https://github.com/nandundilhara)**</br> Bug Tester | **[Tharusha Suwahas](https://github.com/Tharushaa2004)**</br> Bug Tester |
