@@ -2,7 +2,7 @@
  
  <p align="center">  
   <a href="https://github.com/MR-SACHIYA1">
-    <img alt="secktor docs" height="300" src="">    
+    <img alt="BLACK CYBER" height="300" src="">    
    </a>
 </p>
 <p align="center">
@@ -18,31 +18,28 @@
  
   
 
-## 🌷ᴄʟɪᴄᴋ ᴛᴏ ꜰᴏʀᴋ🌷
+## ᴄʟɪᴄᴋ ᴛᴏ ꜰᴏʀᴋ
 
 1.  ***[FORK](https://github.com/BLACK-HAT-TEAM/BLACK-CYBER-V1/fork)***
  
    
    
-   ## 🌷ᴅᴇᴩʟᴏʏᴍᴇɴᴛ ᴍᴇᴛʜᴏᴅꜱ🌷
+   ## ᴅᴇᴩʟᴏʏᴍᴇɴᴛ ᴍᴇᴛʜᴏᴅꜱ
 ---
 
-## 🌷ꜱᴇꜱꜱɪᴏɴ ɪᴅ🌷
+## ꜱᴇꜱꜱɪᴏɴ ɪᴅ
 
 2. ***Get [SESSION-ID](https://rowdy-baby-qr-94d785f490a0.herokuapp.com/) by scanning QR code. `Whatapp>Three dots>Linked Devices`***
 
 
 
-## 🌷ʜᴇʀᴏᴋᴜ ᴅᴇᴩʟᴏʏᴍᴇɴᴛ ᴍᴇᴛʜᴏᴅ🌷
+## ʜᴇʀᴏᴋᴜ ᴅᴇᴩʟᴏʏᴍᴇɴᴛ ᴍᴇᴛʜᴏᴅ
 
 3.  ***Deploy on [Heroku](https://heroku.com/deploy?template=https://github.com/BLACK-HAT-TEAM/BLACK-CYBER-V1)***
 
 
 
-## 🌷ꜰʀᴇᴇ ᴍᴏɴɢᴏᴅʙ ᴋᴇʏ🌷
-```
-mongodb://uv81avnakutzbliczgcu:YYNgzWfkLVxONbVjIVr@bmmkbijvkzeo6y0truts-mongodb.services.clever-cloud.com:2004/bmmkbijvkzeo6y0truts
-```
+
 
 ### Thanks To 🔖
 
