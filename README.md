@@ -56,6 +56,6 @@ SUPPORT GROUP
 
 ## *BLACK-CYBER DEVELOPER TEAM* 👩‍💻
 
-| <a href="https://github.com/MR-SACHIYA1"><img src="https://telegra.ph/file/7ed99c610b51ce550775a.jpg" width=90 height=90></a> | <a href="https://github.com/MR-KALINDU"><img src="https://telegra.ph/file/52bf0943ed604560afc00.jpg" width=90 height=90></a> | <a href="https://github.com/nimnada3"><img src="https://telegra.ph/file/70b02eba6a1840dd50f95.jpg" width=90 height=90></a> | <a href="https://github.com/nandundilhara"><img src="https://telegra.ph/file/213c1d599c5c3a61a7bed.jpg" width=90 height=90></a> | <a 
-|---|---|---|---|
+| <a href="https://github.com/MR-SACHIYA1"><img src="https://telegra.ph/file/7ed99c610b51ce550775a.jpg" width=90 height=90></a> | <a href="https://github.com/MR-KALINDU"><img src="https://telegra.ph/file/52bf0943ed604560afc00.jpg" width=90 height=90></a> | <a href="https://github.com/nimnada3"><img src="https://telegra.ph/file/70b02eba6a1840dd50f95.jpg" width=90 height=90></a> | <a href="https://github.com/nandundilhara"><img src="https://telegra.ph/file/213c1d599c5c3a61a7bed.jpg" width=90 height=90></a> | 
+|---|---|---|---|---|
 | **[MR-SACHIYA](https://github.com/MR-SACHIYA)**</br>Founder & Developer</br> | **[MR-KALINDU](https://github.com/MR-KALINDU)**</br>CO- Owner & CO-Coder</br> | **[Nimnada](https://github.com/nimnada3)**</br> Beta Tester | **[Nadun Dilhara](https://github.com/nandundilhara)**</br> Bug Tester |
