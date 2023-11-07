@@ -11,7 +11,7 @@
 </p>
 
  <p align="center">
-  <a href="#"><img src="http://readme-typing-svg.herokuapp.com?color=d1fa02&center=true&vCenter=true&multiline=false&lines=BLACK+CYBER+MD+BOT;OWNER=MR-SACHIYA;SUPPORTER=MR-KALINDU;CONTACT=+94760007746;GIVE+STAR+AND+FORK+THIS+MY+REPO ;FOLLOW+MY+GitHub" alt="UwU">
+  <a href="#"><img src="http://readme-typing-svg.herokuapp.com?color=d1fa02&center=true&vCenter=true&multiline=false&lines=BLACK+CYBER+MD+BOT;DEVELOPER=MR-SACHIYA;GIVE+STAR+AND+FORK+THIS+MY+REPO ;FOLLOW+MY+GitHub" alt="UwU">
  </p>
 
   <p align="center"> Introducing Black Hunter is designed to bring a whole new level of excitement to your boring WhatsApp use. </p>
