@@ -54,7 +54,7 @@ SUPPORT GROUP
 
 
 
-## ⚖️  *CYBER - X DEVELOPER TEAM* *2K23*  ⚖️
+## *BLACK-CYBER DEVELOPER TEAM* 👩‍💻
 
 | <a href="https://github.com/darkalphaxteam"><img src="https://telegra.ph/file/c670792adfe0d44dc5a99.jpg" width=90 height=90></a> | <a href="https://github.com/MR-KALINDU"><img src="https://telegra.ph/file/52bf0943ed604560afc00.jpg" width=90 height=90></a> | <a href="https://github.com/nimnada3"><img src="https://telegra.ph/file/70b02eba6a1840dd50f95.jpg" width=90 height=90></a> | <a href="https://github.com/nandundilhara"><img src="https://telegra.ph/file/213c1d599c5c3a61a7bed.jpg" width=90 height=90></a> | <a href="https://github.com/Tharushaa2004"><img src="https://telegra.ph/file/976651bc865695c128228.jpg" width=90 height=90></a> |
 |---|---|---|---|---|
